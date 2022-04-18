@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+    <head>
+    
+     <title>Hungry?</title>
+     <style >
+         img {
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+
+}
+     </style>
+     
+    </head>
+
+    <body style=" background-color :rgba(255, 255, 0, 0.196)">
+
+        <h1> <ins>Are you hungry?? Check these foods out. You will love them</ins></h1>
+
+        <p>Biriyani</p>
+        <img src="biriyani.jpg" alt="Biriyani" class ="left" width="500" height="500">
+        <p >Mutton Biriyani <strong>300 INR</strong><input type ="radio" name ="Briyani"></p>
+        <p >Chicken Biriyani <strong>200 INR</strong><input type ="radio" name ="Briyani"></p>
+
+        <p>Shawarma</p>
+        <img src="Shawarma.png" alt="Shawarma" class ="center" width="500" height="500">
+        <p >Mutton Shawarma <strong>300 INR</strong><input type ="radio" name ="Briyani"></p>
+        <p >Chicken Shawarma <strong>200 INR</strong><input type ="radio" name ="Briyani"></p>
+
+    
+
+        
+
+        
+    
+    </body>
+
+</html>
